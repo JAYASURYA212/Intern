@@ -1,0 +1,15 @@
+# Target & Build Output
+backend/target/
+frontend/dist/
+frontend/node_modules/
+backend/uploads/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Environment files
+.env
+*.log
